@@ -1,0 +1,25 @@
+hr {
+    margin: 50px;
+}
+
+input[type=text] {
+    width: 100px;
+}
+
+.mt200 {
+    margin-top: 200px;
+}
+
+#testui {
+    margin-left: 5%;
+}
+
+#testui h2 {
+    text-align: left;
+}
+
+#userstories {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
